@@ -3,12 +3,12 @@
     $b = False;
 
     if ( $a == True) {
-      echo 'Variabel $a bernilai True';
+      echo 'Variabel $a value ',$a;
     }
 
     echo "<br/>";
     if ( $b== False ) {
-      echo 'Variabel $b bernilai False'
+      echo 'Variabel $b value  ',$b;
     }
 
 
